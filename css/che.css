@@ -1,0 +1,51 @@
+/**
+ * charles-emmanuel.me style sheet
+ * BSD license
+ */
+
+body {
+    background-color: #D6D6D6;
+    color: #5D5D69;
+}
+
+a {
+    color: #222222;
+    font-weight: normal;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.row.extramargin {
+    margin: 20px auto 10px !important;
+}
+
+.row.link h4 {
+    margin-bottom: 0 !important;
+}
+
+.row.link p {
+    font-size: 0.8em;
+    padding: 0 !important;
+}
+
+@media screen and (max-width: 48em) {
+    .text-right {
+        text-align: center !important;
+    }
+
+    .columns.extramargin {
+        margin: 20px auto 10px !important;
+    }
+}
+
+@media screen and (min-width: 48em) {
+    .header {
+        margin: 20px auto 10px !important;
+    }
+}

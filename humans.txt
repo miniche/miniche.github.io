@@ -1,0 +1,7 @@
+/* Charles-Emmanuel CAMUS personal web site */
+/* www.charles-emmanuel.me */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Foundation, jQuery
+  Software: Coda, Textmate, Git
